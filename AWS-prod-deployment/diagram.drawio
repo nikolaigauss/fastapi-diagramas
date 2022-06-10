@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-10T12:46:45.839Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ZDFQXpr9e8tq4kVhir29" version="19.0.3" type="github">
+<mxfile modified="2022-06-10T13:39:28.733Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="NBjuyjlP04R2eMTW2Q8_" version="19.0.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3236" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="A Route 53 private zone is desired in case we want to use a private DNS to hit the private LB, a Route 53 resolver connected to local DNS servers might be needed." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="412.5" width="450" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="An internal Load balancer is suggested to ensure distribution across the different API servers hosted by containers, the LB will have a DNS zone as specified in entry #3." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="An internal Load balancer is suggested to ensure distribution across the different API servers hosted by containers, the LB will have a DNS record from the zone specified in entry #3." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="528.5" width="450" height="121" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-17" value="ECS containers hosting the FastAPI server running on FARGATE, based on the fact that the API server is stateless we could use FARGATE_SPOT for the sake of reducing operational costs." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
@@ -176,7 +176,7 @@
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-26" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="X8f6CpPXcMIXnC8pIXMU-5" vertex="1">
           <mxGeometry x="231.5" y="200" width="148.5" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="X8f6CpPXcMIXnC8pIXMU-12" value="AZ ue-east-1b" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="X8f6CpPXcMIXnC8pIXMU-5" vertex="1">
+        <mxCell id="X8f6CpPXcMIXnC8pIXMU-12" value="AZ us-east-1b" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="X8f6CpPXcMIXnC8pIXMU-5" vertex="1">
           <mxGeometry x="221.5" y="170" width="170" height="870" as="geometry" />
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-18" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="X8f6CpPXcMIXnC8pIXMU-5" vertex="1">
