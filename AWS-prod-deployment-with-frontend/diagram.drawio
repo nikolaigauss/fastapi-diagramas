@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T13:22:36.592Z" agent="5.0 (Windows)" etag="GxA3oJeGPIr6BWVfF6SN" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T13:29:34.916Z" agent="5.0 (Windows)" etag="KoMWcFfO9VAKOn7jR6DE" version="19.0.3" type="github">
   <diagram id="mDt5uaCLTZAT6XnBU3LA" name="Page-1">
-    <mxGraphModel dx="3107" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-684" y="120" width="1057" height="1329" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-22" value="eu-west-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-21">
-          <mxGeometry x="37" y="30" width="413" height="1290" as="geometry" />
+          <mxGeometry x="37" y="30" width="420" height="1290" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-124" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
           <mxGeometry x="233" y="210" width="147" height="190" as="geometry" />
@@ -21,6 +21,18 @@
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-49" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-27">
           <mxGeometry x="222.25" y="144" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-24" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
+          <mxGeometry x="230" y="410" width="150" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-47" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
+          <mxGeometry x="-176.5" y="205" width="323" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-127" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
+          <mxGeometry x="38.75" y="237" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-46" value="Internal Application LB with private DNS name" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
+          <mxGeometry x="-50" y="220" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-25" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
           <mxGeometry x="20" y="130" width="380" height="1150" as="geometry" />
@@ -66,17 +78,11 @@
         <mxCell id="QfXva4Vi_orBSrp60xKn-129" value="ECS task definition&lt;br&gt;Running Front end&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_2;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-25">
           <mxGeometry x="74.5" y="360" width="48" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-24" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
-          <mxGeometry x="230" y="410" width="150" height="495" as="geometry" />
+        <mxCell id="QfXva4Vi_orBSrp60xKn-251" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-25">
+          <mxGeometry x="33" y="340" width="323" height="100.5" as="geometry" />
         </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-47" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
-          <mxGeometry x="-176.5" y="205" width="323" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-127" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
-          <mxGeometry x="38.75" y="237" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-46" value="Internal Application LB with private DNS name" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-24">
-          <mxGeometry x="-50" y="220" width="69" height="72" as="geometry" />
+        <mxCell id="QfXva4Vi_orBSrp60xKn-252" value="sg-fe-in Allow traffic from public subnets in port range 8083 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-25">
+          <mxGeometry x="36.5" y="310" width="323" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-41" value="ECR" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
           <mxGeometry x="312" y="10" width="78" height="78" as="geometry" />
@@ -130,7 +136,7 @@
         <mxCell id="QfXva4Vi_orBSrp60xKn-37" value="sg-api-in - Allow inbound from private subnets in port range 5000-5100 TCP&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
           <mxGeometry x="53.5" y="775" width="323" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-48" value="sg-pvt-alb-in Allow traffic from public subnets in port 8083 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
+        <mxCell id="QfXva4Vi_orBSrp60xKn-48" value="sg-pvt-alb-in Allow traffic from public subnets in port range 5000-5100 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
           <mxGeometry x="57" y="585" width="323" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-131" value="ECS task definition&lt;br&gt;Running Front end&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_2;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
@@ -153,6 +159,9 @@
               <mxPoint x="217" y="506" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-243" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-22">
+          <mxGeometry x="380" y="490" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QfXva4Vi_orBSrp60xKn-21" source="QfXva4Vi_orBSrp60xKn-51" target="QfXva4Vi_orBSrp60xKn-23">
           <mxGeometry relative="1" as="geometry">
@@ -310,8 +319,11 @@
         <mxCell id="QfXva4Vi_orBSrp60xKn-68" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-53">
           <mxGeometry x="257" y="637" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="QfXva4Vi_orBSrp60xKn-65" value="sg-pvt-alb-in Allow traffic from public subnets in port 8083 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-53">
-          <mxGeometry x="45" y="560" width="323" height="30" as="geometry" />
+        <mxCell id="QfXva4Vi_orBSrp60xKn-65" value="sg-pvt-alb-in Allow traffic from public subnets in port range 5000-5100 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-53">
+          <mxGeometry x="45" y="570" width="323" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-244" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="QfXva4Vi_orBSrp60xKn-53">
+          <mxGeometry y="490" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QfXva4Vi_orBSrp60xKn-21" source="QfXva4Vi_orBSrp60xKn-51" target="QfXva4Vi_orBSrp60xKn-52">
           <mxGeometry relative="1" as="geometry" />
@@ -434,6 +446,24 @@
         </mxCell>
         <mxCell id="QfXva4Vi_orBSrp60xKn-241" value="Public Application LB with public DNS name" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-780" y="378" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-245" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="990" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-246" value="&lt;div&gt;ECS containers hosting the frontend application&lt;/div&gt;&lt;div&gt;&lt;b&gt;Note: &lt;/b&gt;There is a chance to replace this with an S3 bucket if only static content is ever going to be hosted, although that would mean that no logic is perform on the frontend whatsoever&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="535" y="990.5" width="449" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-247" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1438.5" y="1120" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-248" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="1120.5" width="449" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-249" value="11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="1240" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QfXva4Vi_orBSrp60xKn-250" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1489.5" y="1240.5" width="449" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
