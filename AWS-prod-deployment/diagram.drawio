@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-10T13:39:28.733Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="NBjuyjlP04R2eMTW2Q8_" version="19.0.3" type="github">
+<mxfile modified="2022-06-13T10:33:13.832Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="q6_vID4Fe4OYSVGot06H" version="19.0.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3407" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-85" value="ECS task definition&lt;br&gt;Running FastAPI&lt;br&gt;&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_2;" parent="X8f6CpPXcMIXnC8pIXMU-14" vertex="1">
           <mxGeometry x="250.5" y="390" width="48" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="X8f6CpPXcMIXnC8pIXMU-105" value="sg-api-in - Allow inbound from private subnets in port range 5000-5100 TCP&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-14" vertex="1">
-          <mxGeometry x="33.5" y="340" width="323" height="30" as="geometry" />
+        <mxCell id="X8f6CpPXcMIXnC8pIXMU-105" value="sg-api-in - Allow inbound from private subnets in port 5000 TCP&lt;br&gt;Allow egress to private subnet CIDR&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-14" vertex="1">
+          <mxGeometry x="33.5" y="280" width="323" height="90" as="geometry" />
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-170" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="X8f6CpPXcMIXnC8pIXMU-14" vertex="1">
           <mxGeometry x="168.5" y="390" width="40" height="38" as="geometry" />
@@ -136,16 +136,16 @@
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.243;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="X8f6CpPXcMIXnC8pIXMU-4" source="X8f6CpPXcMIXnC8pIXMU-127" target="X8f6CpPXcMIXnC8pIXMU-104" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216" y="430" />
-              <mxPoint x="127" y="430" />
+              <mxPoint x="216" y="421" />
+              <mxPoint x="127" y="421" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="X8f6CpPXcMIXnC8pIXMU-4" source="X8f6CpPXcMIXnC8pIXMU-127" target="X8f6CpPXcMIXnC8pIXMU-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216" y="430" />
-              <mxPoint x="295" y="430" />
+              <mxPoint x="216" y="421" />
+              <mxPoint x="295" y="421" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,8 +203,8 @@
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-135" value="sg-rds-in - Allow inbound from all region&#39;s VPC in port 5432&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-16" vertex="1">
           <mxGeometry x="28.5" y="510" width="323" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X8f6CpPXcMIXnC8pIXMU-126" value="sg-api-in - Allow inbound from private subnets in port range 5000-5100&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-16" vertex="1">
-          <mxGeometry x="28.5" y="340" width="323" height="30" as="geometry" />
+        <mxCell id="X8f6CpPXcMIXnC8pIXMU-126" value="sg-api-in - Allow inbound from private subnets in port 5000 TCP&lt;br&gt;Allow egress to private subnet CIDR&lt;br&gt;Deny egress to 0.0.0.0/0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-16" vertex="1">
+          <mxGeometry x="28.5" y="280" width="323" height="90" as="geometry" />
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-151" value="sg-pvt-alb-in Allow traffic from VPC in port 8083 TCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X8f6CpPXcMIXnC8pIXMU-16" vertex="1">
           <mxGeometry x="28.5" y="110" width="323" height="30" as="geometry" />
@@ -240,10 +240,20 @@
           <mxGeometry x="81.75" y="510" width="48" height="31" as="geometry" />
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="X8f6CpPXcMIXnC8pIXMU-5" source="X8f6CpPXcMIXnC8pIXMU-155" target="X8f6CpPXcMIXnC8pIXMU-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197" y="411" />
+              <mxPoint x="106" y="411" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="X8f6CpPXcMIXnC8pIXMU-5" source="X8f6CpPXcMIXnC8pIXMU-155" target="X8f6CpPXcMIXnC8pIXMU-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197" y="411" />
+              <mxPoint x="307" y="411" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X8f6CpPXcMIXnC8pIXMU-171" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="X8f6CpPXcMIXnC8pIXMU-5" vertex="1">
           <mxGeometry x="180" y="520" width="40" height="38" as="geometry" />
