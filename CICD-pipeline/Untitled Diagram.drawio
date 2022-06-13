@@ -1,1 +1,219 @@
-<mxfile modified="2022-06-13T10:35:24.956Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="XRuOBf0a78rt_4e72G_s" version="19.0.3" type="github"><diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">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</diagram></mxfile>
+<mxfile modified="2022-06-13T10:54:56.435Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="zQmA_yvtla1QC9tpdQJ3" version="19.0.3" type="github">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="1824" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-14" value="Pipeline for backend application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="94" y="40" width="366" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-15" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="104" y="94" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-16" value="Webhook in Git repo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github-128.png" vertex="1" parent="1">
+          <mxGeometry x="254" y="60" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-15" target="eqmz7KKhXehNAZv7lVTh-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-18" value="&lt;div&gt;Creates local branch&lt;/div&gt;&lt;div&gt;and then submits PR&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eqmz7KKhXehNAZv7lVTh-17">
+          <mxGeometry x="0.2094" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-20" value="Attempts to build the Docker image" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="464" y="103" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-22" value="&lt;div&gt;Security scan&lt;/div&gt;&lt;div&gt;in Docker image&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="644" y="103" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-24" target="eqmz7KKhXehNAZv7lVTh-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="124" />
+              <mxPoint x="900" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-24" value="Run integration tests" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="794" y="103" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-28" target="eqmz7KKhXehNAZv7lVTh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-28" value="Notify approvers in Slack channel" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="786" y="247" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-31" value="&lt;div&gt;Merge PR into&lt;/div&gt;&lt;div&gt;dev/stg/prod branch&lt;br&gt;&lt;/div&gt;Assign tag to commit" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="604" y="273" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-33" value="Attempts to build the Docker image" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="444" y="273" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-35" target="eqmz7KKhXehNAZv7lVTh-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-35" value="Publish image in ECR&lt;br&gt;Security scan in ECR" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="1">
+          <mxGeometry x="254" y="255" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-37" value="&lt;div&gt;Run Terraform plan to update&lt;/div&gt;&lt;div&gt;ECS task definition with the desired tag&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-40" target="eqmz7KKhXehNAZv7lVTh-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-40" value="&lt;div&gt;ECS service will&lt;/div&gt;&lt;div&gt;rotate containers&lt;br&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;" vertex="1" parent="1">
+          <mxGeometry x="279" y="402" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-43" value="&lt;div&gt;Notify developers that a new&lt;/div&gt;&lt;div&gt;version is running&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="456" y="402" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-45" value="Pipeline for frontend application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="87" y="600" width="366" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-46" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="654" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="684" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-48" value="Webhook in Git repo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github-128.png" vertex="1" parent="1">
+          <mxGeometry x="247" y="620" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-46" target="eqmz7KKhXehNAZv7lVTh-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227" y="644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-50" value="&lt;div&gt;Creates local branch&lt;/div&gt;&lt;div&gt;and then submits PR&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eqmz7KKhXehNAZv7lVTh-49">
+          <mxGeometry x="0.2094" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="636.9999999999995" y="684" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-52" value="Attempts to build the Docker image" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="457" y="663" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="786.9999999999995" y="684" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-54" value="&lt;div&gt;Security scan&lt;/div&gt;&lt;div&gt;in Docker image&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="637" y="663" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-56" target="eqmz7KKhXehNAZv7lVTh-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="893" y="684" />
+              <mxPoint x="893" y="854" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-56" value="Run integration tests" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="787" y="663" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-58" target="eqmz7KKhXehNAZv7lVTh-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-58" value="Notify approvers in Slack channel" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="779" y="807" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="854" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-60" value="&lt;div&gt;Merge PR into&lt;/div&gt;&lt;div&gt;dev/stg/prod branch&lt;br&gt;&lt;/div&gt;Assign tag to commit" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="597" y="833" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337" y="854" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-62" value="Attempts to build the Docker image" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="437" y="833" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-64" target="eqmz7KKhXehNAZv7lVTh-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="117" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-64" value="Publish image in ECR&lt;br&gt;Security scan in ECR" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="1">
+          <mxGeometry x="247" y="815" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273" y="1001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-66" value="&lt;div&gt;Run Terraform plan to update&lt;/div&gt;&lt;div&gt;ECS task definition with the desired tag&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="73" y="980" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.40999999999985" y="1001.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-68" value="&lt;div&gt;ECS service will&lt;/div&gt;&lt;div&gt;rotate containers&lt;br&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecs;" vertex="1" parent="1">
+          <mxGeometry x="272" y="962" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-70" value="" style="line;strokeWidth=2;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="39" y="550" width="1041" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="eqmz7KKhXehNAZv7lVTh-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1001.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-71" value="&lt;div&gt;Invalidate cache&lt;/div&gt;&lt;div&gt;In Cloudfront&lt;/div&gt;&lt;div&gt;(Or any other CDN)&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="457" y="955" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="eqmz7KKhXehNAZv7lVTh-73" value="&lt;div&gt;Notify developers that a new&lt;/div&gt;&lt;div&gt;version is running&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="636" y="954" width="94" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
